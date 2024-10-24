@@ -1,6 +1,6 @@
 # The step-by-step instructions on how I set up my Jenkins CI/CD pipeline for a Simple Todo application.
 
-### Step 1: Fork the Repository: (https://github.com/sanoojes/simple-todo-app).
+### Step 1: Fork this Repository: (https://github.com/sanoojes/simple-todo-app).
 
 
 ### Step 2: Installation of Jenkins on a Windows OS
