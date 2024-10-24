@@ -1,14 +1,12 @@
-# Task Explanation: Jenkins CI/CD for JavaScript Applications
-
-## This is a Jenkins Freestyle Project for Todo List App 
+# The step-by-step instructions on how I set up my Jenkins CI/CD pipeline for a Simple Todo application.
 
 ### Step 1: Fork the Repository: (https://github.com/sanoojes/simple-todo-app).
 
 
-### Step 2: Install Jenkins
-1. Refer to the official Jenkins installation guide for your operating system: [Jenkins Installation](https://www.jenkins.io/doc/book/installing/) or these articles  [Linux](https://www.digitalocean.com/community/tutorial-collections/how-to-install-jenkins), [Windows](https://phoenixnap.com/kb/install-jenkins-on-windows) and [macOS](https://www.jenkins.io/download/lts/macos/) 
-2. Follow the instructions to install Jenkins.
-3. Once installed on my windows system, on my web browser, I opened `http://localhost:8080` to access Jenkins.
+### Step 2: Installation of Jenkins on a Windows OS
+1. First thing is to install JAVA 21. Link to download JDK: https://phoenixnap.com/kb/install-java-windows 
+2. After installing the JDK, then download Jenkins here and install: https://phoenixnap.com/kb/install-jenkins-on-windows 
+3. Once installed, I opened `http://localhost:8080` to access Jenkins on my web browser.
    
 ### Step 3: Create a Jenkins Freestyle Project
 1. I clicked on "New Item".
